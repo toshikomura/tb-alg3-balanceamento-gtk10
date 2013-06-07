@@ -1,4 +1,4 @@
-tbbalanceamento-gtk10
+tb-alg3-balanceamento-gtk10
 =====================
 
 Trabalho de Alg 3 Balanceamento
